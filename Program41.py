@@ -1,4 +1,4 @@
-# How to read in a file
+# How to read in a file python
 
 # step 1 : open a file
 # read mode -> r, write -> w, read and write -> r+

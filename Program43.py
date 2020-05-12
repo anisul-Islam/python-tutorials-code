@@ -1,4 +1,4 @@
-# Exceptions Handling -> try, except, finally
+# Exceptions Handling -> try, except, finally (python)
 # Run time errors, compile time errors
 
 '''

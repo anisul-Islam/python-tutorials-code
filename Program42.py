@@ -1,4 +1,4 @@
-# How to write in a file (python)
+# How to write in a file  (python)
 
 file = open("student.txt","a")
 
